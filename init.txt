@@ -1,0 +1,3 @@
+Project: MJU-2023-WEB1-BananaPlanner
+Repository: BananaPlanner-Backend
+Contributor: 장소윤(server), 채서연(database)
